@@ -10,5 +10,8 @@ public class GameTest {
 	public static void main(String[] args) {
 		//코드를 작성하세요.
 		System.out.println("dfsdf");
+		System.out.println("dfsdf");
+		System.out.println("dfsdf");
+		System.out.println("dfsdf");
 	}
 }
