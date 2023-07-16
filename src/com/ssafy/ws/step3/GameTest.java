@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class GameTest {
 
 	public static void main(String[] args) {
-		//코드를 작성하세요.
+		// 3
 		
 	}
 }

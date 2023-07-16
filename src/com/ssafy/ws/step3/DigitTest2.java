@@ -6,7 +6,7 @@ package com.ssafy.ws.step3;
 public class DigitTest2 {
 
 	public static void main(String[] args) {
-// 소스를 완성해주세요
+		// 2
 		 
 	}
 }
