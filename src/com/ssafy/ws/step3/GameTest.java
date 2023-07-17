@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class GameTest {
 
 	public static void main(String[] args) {
-		// 3
+		// 333333333333333
 		
 	}
 }
