@@ -7,7 +7,8 @@ public class DigitTest1 {
 
 	public static void main(String[] args) {
 		// 3
-		System.out.println(1);  
+		System.out.println(1);
+		System.out.println(2);  
 	}
 
 }
