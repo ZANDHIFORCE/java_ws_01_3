@@ -11,7 +11,7 @@ public class DigitTest1 {
 		System.out.println(2);  
 
 
-		sysout
+		System.out.println(111);
 	}
 
 }
