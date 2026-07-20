@@ -8,9 +8,10 @@ import java.util.Scanner;
 public class GameTest {
 
 	public static void main(String[] args) {
+		//단판!
 		int computer = (int)(Math.random()*3)+1;
 		Scanner sc = new Scanner(System.in);
-		System.out.print("번호를 입력하세요: ");
+		System.out.print("(단판)번호를 입력하세요: ");
 		int person = sc.nextInt();
 		
 		if(person==computer) {
